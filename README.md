@@ -5,3 +5,5 @@ Efetuado a criação do style.css
 alguma nova linha
 
 Aula 12 - Meu Primeiro Sistema no GIT (alterado e atualizado)
+
+Criando a pasta 'js' e dentro dela um arquivo chamado 'script.js' e realizado uma alteração no index.html.
